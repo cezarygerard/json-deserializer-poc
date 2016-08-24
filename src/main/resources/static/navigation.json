@@ -1,0 +1,42 @@
+{
+  "pl": [
+    {
+      "url": "http://dupa.com/",
+      "label": "Dupa"
+    },
+    {
+      "url": "http://parent.com/",
+      "label": "parent",
+      "subnodes": [
+        {
+          "url": "http://child.com/",
+          "label": "child"
+        },
+        {
+          "url": "http://child2.com/",
+          "label": "child2"
+        }
+      ]
+    }
+  ],
+  "de": [
+    {
+      "url": "http://dupaDE.com/",
+      "label": "DupaDE"
+    },
+    {
+      "url": "http://parentDE.com/",
+      "label": "parentDE",
+      "subnodes": [
+        {
+          "url": "http://childDE.com/",
+          "label": "childDE"
+        },
+        {
+          "url": "http://child2DE.com/",
+          "label": "child2DE"
+        }
+      ]
+    }
+  ]
+}
